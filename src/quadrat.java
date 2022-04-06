@@ -1,5 +1,4 @@
 public class quadrat {
-    //check if the input is a natural number
     public static boolean isNatural(int input) {
         if (input > 0) {
             return true;
